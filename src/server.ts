@@ -1,2 +1,2 @@
-const var_let_stujfdklajflksjkfdlsajlfjlaskflkasjf =
-  "lfdjkalkflksajdfkjakfjdsklajçfkjsdaçlkfjklasjfdklajlkfjsalkfjslçdakjfkasjfklajsdklfjalkdfjalkjsflkfjasklfjklasjfklasjfklasjdlkfjasdlk"
+const test = "test"
+console.log(test)
