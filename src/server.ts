@@ -1,1 +1,1 @@
-import Fastify from 'fastify';
+console.log('Hello World!');
