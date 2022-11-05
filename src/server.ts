@@ -1,1 +1,2 @@
-console.log('Hello World!');
+const var_let_stujfdklajflksjkfdlsajlfjlaskflkasjf =
+  "lfdjkalkflksajdfkjakfjdsklajçfkjsdaçlkfjklasjfdklajlkfjsalkfjslçdakjfkasjfklajsdklfjalkdfjalkjsflkfjasklfjklasjfklasjfklasjdlkfjasdlk"
